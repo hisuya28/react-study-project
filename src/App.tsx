@@ -20,6 +20,13 @@ import _04_04_01_01_State from "./04_04_01_01_state.tsx";
 import _04_04_01_02_State from "./04_04_01_02_state.tsx";
 import _04_04_02_State from "./04_04_02_state.tsx";
 import _04_05_State from "./04_05_state.tsx";
+import _05_01_01_01_Style from "./05_01_01_02_style.tsx";
+import _05_01_01_02_Style from "./05_01_01_02_style.tsx";
+import _05_01_02_Style from "./05_01_02_style.tsx";
+import _05_01_03_Style from "./05_01_03_style.tsx";
+import _05_01_04_01_Style from "./05_01_04_01_style.tsx";
+import _05_01_04_02_Style from "./05_01_04_02_style.tsx";
+import _05_01_04_03_Style from "./05_01_04_03_style.tsx";
 
 class App extends Component {
   render() {
@@ -45,7 +52,14 @@ class App extends Component {
           {/* <_04_04_01_01_State /> */}
           {/* <_04_04_01_02_State /> */}
           {/* <_04_04_02_State /> */}
-          <_04_05_State />
+          {/* <_04_05_State /> */}
+          {/* <_05_01_01_01_Style /> */}
+          {/* <_05_01_01_02_Style /> */}
+          {/* <_05_01_02_Style /> */}
+          {/* <_05_01_03_Style /> */}
+          {/* <_05_01_04_01_Style /> */}
+          {/* <_05_01_04_02_Style /> */}
+          <_05_01_04_03_Style />
         </>
       );
   }
