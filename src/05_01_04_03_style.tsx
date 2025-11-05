@@ -14,7 +14,7 @@ export default function App(){
     return(
         <>
             <button className={cx({btn: true,'is-active': isActive})}>App Button</button>
-            <Child />
+            <Child />   
         </>
     );
 }
