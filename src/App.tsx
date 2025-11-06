@@ -36,6 +36,8 @@ import _07_01_02_04_render from "./07_01_02_04_render.tsx";
 import _07_01_03_01_render from "./07_01_03_01_render.tsx";
 import _07_01_03_02_render from "./07_01_03_02_render.tsx";
 import _07_01_03_03_render from "./07_01_03_03_render.tsx";
+import _07_02_01_render from "./07_02_01_render.tsx";
+import _07_02_02_render from "./07_02_02_render.tsx";
 
 
 class App extends Component {
@@ -78,7 +80,9 @@ class App extends Component {
           {/* <_07_01_02_04_render /> */}
           {/* <_07_01_03_01_render /> */}
           {/* <_07_01_03_02_render /> */}
-          <_07_01_03_03_render />
+          {/* <_07_01_03_03_render /> */}
+          {/* <_07_02_01_render /> */}
+          <_07_02_02_render />
         </>
       );
   }
