@@ -1,8 +1,8 @@
 // import './App.css';
 
 // 밑에 있는 모듈 적용하면 경로 에러가 발생하므로 임시로 주석 처리
-import './App.module.css';
-import Child from './components/Child';
+import '../App.module.css';
+import Child from '../components/Child';
 
 // 또 다른 전통적인 방법은 글로벌 스타일
 // 글로벌 스타일은 .css 확장자를 가진 파일에 CSS 코드를 작성하고

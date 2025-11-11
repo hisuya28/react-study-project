@@ -1,5 +1,5 @@
 import React from "react";
-import User from './components/User04'
+import User from '../components/User04'
 
 // 리액트에서는 컴포넌트는 기본적으로 빈 태그 사용
 // 이러한 형태를 사용하면 컴포넌트 안에 포함된

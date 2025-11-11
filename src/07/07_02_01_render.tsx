@@ -1,4 +1,4 @@
-import ListItem from './components/ListItem'
+import ListItem from '../components/ListItem'
 
 // 반복 렌더링
 

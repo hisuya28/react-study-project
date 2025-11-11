@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "./components/Header";
-import Main from "./components/Main";
-import Footer from "./components/Footer";
+import Header from "../components/Header";
+import Main from "../components/Main";
+import Footer from "../components/Footer";
 
 // 컴포넌트는 function 키워드로 정의하고
 // JSX를 return 문 안에 작성함.

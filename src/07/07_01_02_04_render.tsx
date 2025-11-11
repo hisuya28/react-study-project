@@ -1,4 +1,4 @@
-import Login from './components/Login';
+import Login from '../components/Login';
 
 // 삼항 연산자를 사용한 조건부 렌더링
 // 4. 동적으로 props 전달하기

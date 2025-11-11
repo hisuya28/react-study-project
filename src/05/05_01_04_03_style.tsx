@@ -1,6 +1,6 @@
-import styles from './App.module.css';
+import styles from '../App.module.css';
 import classNames from 'classnames/bind';
-import Child from './components/Child';
+import Child from '../components/Child';
 
 // classnames 라이브러리
 // CSS 모듈에서 사용하기

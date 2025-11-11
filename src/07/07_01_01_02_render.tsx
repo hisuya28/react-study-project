@@ -1,4 +1,4 @@
-import Logout from './components/Logout';
+import Logout from '../components/Logout';
 
 // if문은 jsx 표현식 내부에서 직접 사용할 수 없음
 // 그래서 조건에 따라 변수에 서로 다른 jsx 요소에 할당한 뒤

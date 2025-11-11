@@ -1,7 +1,7 @@
 import { useReducer } from "react";
-import { counterReducer } from "./reducer/counterReducer";
-import { userReducer } from "./reducer/userReducer";
-import { cartReducer } from "./reducer/cartReducer";
+import { counterReducer } from "../reducer/counterReducer";
+import { userReducer } from "../reducer/userReducer";
+import { cartReducer } from "../reducer/cartReducer";
 
 // useReducer hook 여러 번 사용
 // 각 상태를 독립적으로 관리할 수 있음

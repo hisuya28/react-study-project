@@ -1,5 +1,5 @@
-import Login from './components/Login';
-import Logout from './components/Logout';
+import Login from '../components/Login';
+import Logout from '../components/Logout';
 
 // and 연산자를 사용한 조건부 렌더링
 // 2. 컴포넌트 렌더링 하기

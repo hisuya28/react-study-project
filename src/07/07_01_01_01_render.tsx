@@ -1,7 +1,7 @@
-import Login from './components/Login';
-import Logout from './components/Logout';
-import LoginMessage from './components/LoginMessage';
-import LogoutMessage from './components/LogoutMessage';
+import Login from '../components/Login';
+import Logout from '../components/Logout';
+import LoginMessage from '../components/LoginMessage';
+import LogoutMessage from '../components/LogoutMessage';
 
 
 export default function App(){

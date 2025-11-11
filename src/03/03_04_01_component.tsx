@@ -1,5 +1,5 @@
 import React from "react";
-import User from './components/User01'
+import User from '../components/User01'
 
 // props 객체는 부모 컴포넌트가 자식 컴포넌트에게 넘겨주는
 // 모든 데이터가 담긴 객체임

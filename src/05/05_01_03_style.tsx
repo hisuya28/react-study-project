@@ -1,5 +1,5 @@
-import styles from './App.module.css';
-import Child from './components/Child';
+import styles from '../App.module.css';
+import Child from '../components/Child';
 
 // 또 다른 전통적인 방법은 CSS 모듈
 // CSS 모듈은 파일 확장자가 module.css로 끝나는 파일에

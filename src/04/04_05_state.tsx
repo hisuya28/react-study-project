@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Count from './components/Count';
+import Count from '../components/Count';
 
 // 개발자 도구로 상태 값 확인하기
 // 여기 부분은 크게 신경쓸 필요 없음

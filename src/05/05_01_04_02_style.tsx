@@ -1,6 +1,6 @@
-import './App.css'
+import '../App.css'
 import classNames from 'classnames';
-import Child from './components/Child';
+import Child from '../components/Child';
 
 // classnames 라이브러리
 // 글로벌 스타일에서 사용하기

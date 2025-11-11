@@ -1,5 +1,5 @@
-import CountDisplay from './components/CountDisplay';
-import CountButton from './components/CountButtons';
+import CountDisplay from '../components/CountDisplay';
+import CountButton from '../components/CountButtons';
 import { useState } from 'react';
 
 // 상태 끌어올리기
